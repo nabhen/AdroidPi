@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:androclass="http://schemas.android.com/apk/res/android" >
+   <item androclass:id="@+id/add"
+       androclass:title="ajouter document"
+       ></item>
+
+   <item androclass:id="@+id/modify"
+       androclass:title="modifier document"
+       ></item>
+</menu>
